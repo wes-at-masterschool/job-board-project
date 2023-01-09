@@ -3,4 +3,4 @@ In this project, I have some figures from Indeed. If this were a portfolio piece
 
 Here is a sample image of the site: 
 
-<img src="./103.1/job1.png" alt="a job board/>
+![a job board](./103.1/job1.png)
